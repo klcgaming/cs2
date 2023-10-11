@@ -1,0 +1,42 @@
+.middlebar {
+  width: 90%;
+  background-color: rgb(103, 121, 118);
+  height: 900px;
+  margin-left: 5%;
+  margin-top: -60px;
+}
+
+.middlebarctl{
+  width: 90%;
+  background-color: rgb(65, 65, 65);
+  height: 300px;
+  margin-left: 5%;
+  margin-top: -22px;
+} 
+.middlebarctlt{
+  width: 90%;
+  background-color: rgb(65, 65, 65);
+  height: 400px;
+  margin-left: 5%;
+  margin-top: -22px;
+} 
+.bjcimg {
+  width: 90%;
+  margin-left: 5%;
+}
+.bjcimgt {
+  width: 40%;
+  margin-left: 5%;
+}
+
+.wtt {
+  color: #fff;
+  font-size: 40px;
+  margin-top: 10px;
+}
+.wt {
+  color: #fff;
+}
+.img1 {
+  margin-left: 16px;
+}

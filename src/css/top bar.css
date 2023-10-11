@@ -1,0 +1,30 @@
+.buttontopmain{
+  background-color: rgb(116, 19, 146);
+  color: aqua;
+  transition: 300ms;
+  border: 0px;
+  margin-left: 4%;
+  width: 20%;
+  height: 25px;
+  font-size: 20px;
+}
+.buttontopmain:hover{
+
+  background-color: rgb(255, 0, 98);
+
+}
+.buttontopselected{
+  background-color: rgb(70, 15, 87);
+  color: white;
+  transition: 300ms;
+  border: 0px;
+  margin-left: 4%;
+  width: 20%;
+  height: 30px;
+  font-size: 25px;
+}
+.buttontopselected:hover{
+
+  background-color: rgb(30, 16, 46);
+
+}
